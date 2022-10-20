@@ -1,0 +1,6 @@
+name: "Firstname Lastname"
+
+output: 
+    
+  rmdformats::html_docco:
+      css: style.css
